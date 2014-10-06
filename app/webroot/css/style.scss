@@ -1,0 +1,88 @@
+.expense_overview
+{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    a
+    {
+        margin-bottom:10px;
+    }
+}
+
+.paycheck_listing
+{
+    cursor: pointer;
+}
+
+.nav
+{
+    margin-bottom:0px;
+}
+
+
+.net_income
+{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.hero-unit
+{
+    padding: 30px;
+}
+
+
+.expense_total
+{
+    float:left;
+    width: 50px;
+}
+
+.expense_name
+{
+    float:left;
+}
+
+
+.remainder_percentage
+{
+    float:right;
+}
+
+hr
+{
+    border-bottom: 1px solid #AAA;
+    margin: 10px 0;
+}
+
+
+.paycheck_expenses ul li a
+{
+    height:20px;
+}
+
+
+@media (max-width: 480px)
+{
+    .navbar .nav > li > a
+    {
+        padding-left: 0px;
+        padding-right:10px;
+    }
+
+    body
+    {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+
+    .hero-unit
+    {
+        padding: 9px;
+    }
+}
+
+.right
+{
+    float: right;
+}
