@@ -1,0 +1,6 @@
+paychecked.co is a way to keep track of your paychecks and setup a few reminders about what the paycheck is going to cover.  
+
+Problem:
+Every time I got paid, 85% of the income was already spoken for.  It was either rent or student loans, or bills or credit cards.  I'd get paid and I always knew that most of it had to go somewhere other than my pocket.  I created paychecked.co to help me remember what I meant to do with the income.  If I was at work or at home, I could remind myself where my moneys needed to get transferred.  
+
+I initially though i'd upload it to github for fully transparency.  I care deeply for privacy, in an age when we post more and more personal indentifiable data to third party websites.  If you'd like, clone this repo and host it yourself.  It just needs php5 (cake framework) and MySQL.  It should be a breeze to setup.  
